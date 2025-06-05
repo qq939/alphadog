@@ -1,0 +1,10 @@
+# 常见Python忽略规则
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.vscode/
+.idea/
+data/

@@ -11,6 +11,7 @@ from typing import List
 from tenacity import retry, stop_after_attempt, wait_fixed
 import tushare as ts
 import os
+import logging
 
 # 新增：历史记录写入函数
 def log_to_history(message: str):
@@ -62,8 +63,14 @@ def fetch_tushare_history_data(stock_name: str, stock_code: str, days: int = 800
     if df.empty:
         raise ValueError(f"Tushare未返回数据：{stock_code}")
     
+    # 获取MACD指标
+    df_macd = pro.macd(ts_code=ts_code, start_date='', end_date=pd.Timestamp.today().strftime("%Y%m%d"))
+    
+    # 合并数据
+    df = pd.merge(df, df_macd, on='trade_date', how='left')
+    
     # 字段映射：trade_date→日期，close→收盘价
-    df = df[["trade_date", "open", "close"]].rename(columns={"trade_date": "date"})
+    df = df[["trade_date", "open", "close", "macd"]].rename(columns={"trade_date": "date"})
     df["date"] = pd.to_datetime(df["date"]).dt.strftime("%Y-%m-%d")  # 格式化为YYYY-MM-DD
     return df.assign(code=stock_code, name=stock_name)
 
@@ -100,6 +107,9 @@ def update_all_stock_data():
         
         if idx < len(stock_codes):
             time.sleep(1)
+
+# 配置日志记录
+logging.basicConfig(level=logging.ERROR, format='%(asctime)s - %(levelname)s - %(message)s')
 
 if __name__ == "__main__":
     # 循环更新数据（按接口可承受的限度执行，无固定休眠时间）

@@ -1,0 +1,15 @@
+# 置信区间计算策略配置
+confidence_strategy: "yacd"  # 可选值: normal, quantile, yacd
+
+# 正态分布策略参数
+normal_strategy_params:
+  confidence_level: 0.9999  # 置信水平
+
+# 分位数策略参数
+quantile_strategy_params:
+  lower_quantile: 0.0001  # 下界分位数
+  upper_quantile: 0.9999  # 上界分位数
+
+# yacds 配置
+yacd_strategy_params:
+  confidence_level:  0.9999  # 置信水平

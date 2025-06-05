@@ -494,3 +494,379 @@
 - [2025-06-05 20:22:06] 数据更新成功：工商银行（sh601398）（保存至 c:\Users\jimjiang\PycharmProjects\AlphaDog\data\sh601398.csv）
 - [2025-06-05 20:22:07] 数据更新成功：宁德时代（sz300750）（保存至 c:\Users\jimjiang\PycharmProjects\AlphaDog\data\sz300750.csv）
 - [2025-06-05 20:22:08] 数据更新成功：招商银行（sh600036）（保存至 c:\Users\jimjiang\PycharmProjects\AlphaDog\data\sh600036.csv）
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=2.90, 上界=13.27
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=2.64, 上界=9.48
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=2.86, 上界=4.71
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=4.12, 上界=8.59
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=8.27, 上界=35.43
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=16.96, 上界=54.76
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=9.18, 上界=21.21
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=21.81, 上界=63.52
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=41.11, 上界=124.39
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=13.41, 上界=37.43
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=96.25, 上界=420.13
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=-13.12, 上界=78.15
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=1087.65, 上界=2275.05
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=7.86, 上界=46.44
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=15.20, 上界=35.15
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=9.88, 上界=26.00
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=93.19, 上界=381.23
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=14.09, 上界=45.43
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=12.66, 上界=36.60
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=4.23, 上界=6.78
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=3.75, 上界=11.70
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=7.14, 上界=18.74
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=2.66, 上界=4.44
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=22.16, 上界=159.63
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=5.41, 上界=13.96
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=-40.58, 上界=106.55
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=15.05, 上界=33.53
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=0.74, 上界=8.21
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=12.76, 上界=55.01
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=5.63, 上界=9.04
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=9.68, 上界=25.83
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=4.00, 上界=7.10
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=1.86, 上界=12.05
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=0.50, 上界=7.17
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=27.43, 上界=65.51
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=1.80, 上界=8.64
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=0.65, 上界=11.58
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=4.84, 上界=10.80
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=9.26, 上界=44.93
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=3.42, 上界=6.49
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=1.88, 上界=7.52
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=2.03, 上界=4.39
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=2.82, 上界=10.37
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=8.18, 上界=21.19
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=0.90, 上界=13.66
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=2.07, 上界=3.36
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=1.16, 上界=25.31
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=1.95, 上界=3.89
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=2.50, 上界=11.02
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=4.01, 上界=11.84
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=0.83, 上界=7.32
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=4.22, 上界=7.03
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=2.15, 上界=9.52
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=-5.95, 上界=147.38
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=-22.14, 上界=133.29
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=-15.80, 上界=238.03
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=20.75, 上界=189.14
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=-17.48, 上界=129.07
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=5.41, 上界=18.35
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=26.43, 上界=94.37
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=18.88, 上界=352.00
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=18.69, 上界=56.04
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=2.84, 上界=5.18
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=67.13, 上界=244.69
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=7.73, 上界=40.94
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=8.40, 上界=45.32
+- [2025-06-05 20:51:21] 数据更新成功：贵州茅台（sh600519）（保存至 c:\Users\jimjiang\PycharmProjects\AlphaDog\data\sh600519.csv）
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=-3.68, 上界=49.81
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=-15.66, 上界=258.54
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=17.81, 上界=72.75
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=16.76, 上界=49.90
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=15.13, 上界=51.80
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=81.29, 上界=451.22
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=18.01, 上界=72.44
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=2.86, 上界=5.19
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=2.18, 上界=6.87
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=0.98, 上界=3.46
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=2.03, 上界=5.03
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=6.81, 上界=22.50
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=1.90, 上界=3.97
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=4.82, 上界=9.52
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=-13.61, 上界=55.91
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=-0.80, 上界=37.83
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=-168.43, 上界=764.25
+- [2025-06-05 20:51:21] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=173.87, 上界=397.99
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=2.90, 上界=13.27
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=2.64, 上界=9.48
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=2.86, 上界=4.71
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=4.12, 上界=8.59
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=8.27, 上界=35.43
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=16.96, 上界=54.76
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=9.18, 上界=21.21
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=21.81, 上界=63.52
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=41.11, 上界=124.39
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=13.41, 上界=37.43
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=96.25, 上界=420.13
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=-13.12, 上界=78.15
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=1087.65, 上界=2275.05
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=7.86, 上界=46.44
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=15.20, 上界=35.15
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=9.88, 上界=26.00
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=93.19, 上界=381.23
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=14.09, 上界=45.43
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=12.66, 上界=36.60
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=4.23, 上界=6.78
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=3.75, 上界=11.70
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=7.14, 上界=18.74
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=2.66, 上界=4.44
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=22.16, 上界=159.63
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=5.41, 上界=13.96
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=-40.58, 上界=106.55
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=15.05, 上界=33.53
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=0.74, 上界=8.21
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=12.76, 上界=55.01
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=5.63, 上界=9.04
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=9.68, 上界=25.83
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=4.00, 上界=7.10
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=1.86, 上界=12.05
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=0.50, 上界=7.17
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=27.43, 上界=65.51
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=1.80, 上界=8.64
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=0.65, 上界=11.58
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=4.84, 上界=10.80
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=9.26, 上界=44.93
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=3.42, 上界=6.49
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=1.88, 上界=7.52
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=2.03, 上界=4.39
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=2.82, 上界=10.37
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=8.18, 上界=21.19
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=0.90, 上界=13.66
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=2.07, 上界=3.36
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=1.16, 上界=25.31
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=1.95, 上界=3.89
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=2.50, 上界=11.02
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=4.01, 上界=11.84
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=0.83, 上界=7.32
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=4.22, 上界=7.03
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=2.15, 上界=9.52
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=-5.95, 上界=147.38
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=-22.14, 上界=133.29
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=-15.80, 上界=238.03
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=20.75, 上界=189.14
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=-17.48, 上界=129.07
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=5.41, 上界=18.35
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=26.43, 上界=94.37
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=18.88, 上界=352.00
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=18.69, 上界=56.04
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=2.84, 上界=5.18
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=67.13, 上界=244.69
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=7.73, 上界=40.94
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=8.40, 上界=45.32
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=-3.68, 上界=49.81
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=-15.66, 上界=258.54
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=17.81, 上界=72.75
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=16.76, 上界=49.90
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=15.13, 上界=51.80
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=81.29, 上界=451.22
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=18.01, 上界=72.44
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=2.86, 上界=5.19
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=2.18, 上界=6.87
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=0.98, 上界=3.46
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=2.03, 上界=5.03
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=6.81, 上界=22.50
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=1.90, 上界=3.97
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=4.82, 上界=9.52
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=-13.61, 上界=55.91
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=-0.80, 上界=37.83
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=-168.43, 上界=764.25
+- [2025-06-05 21:02:15] 使用策略 NormalDistributionStrategy 计算置信区间: 下界=173.87, 上界=397.99
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=8.38, 上界=8.80
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=5.54, 上界=5.96
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=3.74, 上界=4.16
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=7.05, 上界=7.87
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=24.17, 上界=24.91
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=50.61, 上界=51.53
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=18.71, 上界=19.25
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=40.21, 上界=40.93
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=97.15, 上界=97.85
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=32.35, 上界=33.39
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=353.11, 上界=353.99
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=38.06, 上界=38.76
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=1892.10, 上界=1893.00
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=42.14, 上界=42.84
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=25.82, 上界=26.58
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=26.42, 上界=27.20
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=298.68, 上界=299.64
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=39.92, 上界=40.66
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=22.83, 上界=23.37
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=5.81, 上界=6.41
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=6.38, 上界=7.12
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=14.24, 上界=15.24
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=4.03, 上界=4.63
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=63.24, 上界=63.76
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=9.74, 上界=10.26
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=67.71, 上界=68.43
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=26.05, 上界=26.79
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=3.82, 上界=4.18
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=24.68, 上界=25.70
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=7.27, 上界=7.99
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=21.79, 上界=22.57
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=6.78, 上界=7.34
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=7.02, 上界=7.34
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=2.94, 上界=3.14
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=53.48, 上界=54.20
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=4.66, 上界=4.90
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=10.15, 上界=10.69
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=7.87, 上界=8.47
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=27.45, 上界=28.25
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=5.37, 上界=6.03
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=5.52, 上界=6.00
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=3.24, 上界=3.64
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=6.55, 上界=6.97
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=13.91, 上界=14.85
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=5.17, 上界=6.11
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=3.05, 上界=3.51
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=10.39, 上界=11.47
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=3.43, 上界=3.67
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=6.06, 上界=6.40
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=8.66, 上界=9.20
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=3.04, 上界=3.30
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=6.52, 上界=6.98
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=4.56, 上界=4.94
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=97.16, 上界=98.30
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=96.89, 上界=97.67
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=239.43, 上界=240.57
+- [2025-06-05 21:04:32] 数据更新成功：贵州茅台（sh600519）（保存至 c:\Users\jimjiang\PycharmProjects\AlphaDog\data\sh600519.csv）
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=145.29, 上界=146.31
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=51.15, 上界=51.81
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=15.98, 上界=16.84
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=72.90, 上界=73.70
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=228.43, 上界=229.49
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=38.94, 上界=39.50
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=4.57, 上界=5.29
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=198.92, 上界=199.90
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=18.37, 上界=19.39
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=39.02, 上界=39.88
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=43.07, 上界=43.93
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=174.45, 上界=175.37
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=61.24, 上界=62.16
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=45.59, 上界=46.39
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=43.65, 上界=44.47
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=240.07, 上界=241.13
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=57.79, 上界=58.71
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=3.82, 上界=4.32
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=6.07, 上界=6.83
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=2.92, 上界=3.38
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=3.91, 上界=4.47
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=15.79, 上界=16.33
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=3.57, 上界=4.11
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=6.76, 上界=7.42
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=34.30, 上界=35.60
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=26.95, 上界=27.99
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=530.19, 上界=531.41
+- [2025-06-05 21:04:32] 使用策略 YACDConfidenceIntervalStrategy 计算置信区间: 下界=318.36, 上界=319.12
+- [2025-06-05 21:20:12] 数据更新失败（已重试3次）：贵州茅台（sh600519）→ RetryError[<Future at 0x16b22714770 state=finished raised Exception>]
+- [2025-06-05 21:20:16] 数据更新失败（已重试3次）：工商银行（sh601398）→ RetryError[<Future at 0x16b22638d40 state=finished raised Exception>]
+- [2025-06-05 21:20:19] 数据更新失败（已重试3次）：宁德时代（sz300750）→ RetryError[<Future at 0x16b22a0e810 state=finished raised Exception>]
+- [2025-06-05 21:20:23] 数据更新失败（已重试3次）：招商银行（sh600036）→ RetryError[<Future at 0x16b22a0fb00 state=finished raised Exception>]
+- [2025-06-05 21:20:27] 数据更新失败（已重试3次）：中国移动（sh600941）→ RetryError[<Future at 0x16b22a0faa0 state=finished raised Exception>]
+- [2025-06-05 21:20:36] 数据更新失败（已重试3次）：贵州茅台（sh600519）→ RetryError[<Future at 0x1980e0ad3d0 state=finished raised Exception>]
+- [2025-06-05 21:20:39] 数据更新失败（已重试3次）：工商银行（sh601398）→ RetryError[<Future at 0x1980e5b8560 state=finished raised Exception>]
+- [2025-06-05 21:20:43] 数据更新失败（已重试3次）：宁德时代（sz300750）→ RetryError[<Future at 0x1980e696270 state=finished raised Exception>]
+- [2025-06-05 21:20:46] 数据更新失败（已重试3次）：招商银行（sh600036）→ RetryError[<Future at 0x1980e612840 state=finished raised Exception>]
+- [2025-06-05 21:20:50] 数据更新失败（已重试3次）：中国移动（sh600941）→ RetryError[<Future at 0x1980e613bc0 state=finished raised Exception>]
+- [2025-06-05 21:20:54] 数据更新失败（已重试3次）：中国石油（sh601857）→ RetryError[<Future at 0x1980e448770 state=finished raised Exception>]
+- [2025-06-05 21:24:13] 数据更新失败（已重试3次）：贵州茅台（sh600519）→ RetryError[<Future at 0x26a7700ad20 state=finished raised Exception>]
+- [2025-06-05 21:24:16] 数据更新失败（已重试3次）：工商银行（sh601398）→ RetryError[<Future at 0x26a28266c90 state=finished raised Exception>]
+- [2025-06-05 21:24:20] 数据更新失败（已重试3次）：宁德时代（sz300750）→ RetryError[<Future at 0x26a28469fd0 state=finished raised Exception>]
+- [2025-06-05 21:24:24] 数据更新失败（已重试3次）：招商银行（sh600036）→ RetryError[<Future at 0x26a2846a8d0 state=finished raised Exception>]
+- [2025-06-05 21:24:27] 数据更新失败（已重试3次）：中国移动（sh600941）→ RetryError[<Future at 0x26a2846b110 state=finished raised Exception>]
+- [2025-06-05 21:24:31] 数据更新失败（已重试3次）：中国石油（sh601857）→ RetryError[<Future at 0x26a2638c680 state=finished raised Exception>]
+- [2025-06-05 21:24:34] 数据更新失败（已重试3次）：农业银行（sh601288）→ RetryError[<Future at 0x26a2846a510 state=finished raised Exception>]
+- [2025-06-05 21:24:38] 数据更新失败（已重试3次）：中国银行（sh601988）→ RetryError[<Future at 0x26a2846aab0 state=finished raised Exception>]
+- [2025-06-05 21:24:42] 数据更新失败（已重试3次）：中国平安（sh601318）→ RetryError[<Future at 0x26a28676750 state=finished raised Exception>]
+- [2025-06-05 21:24:45] 数据更新失败（已重试3次）：五粮液（sz000858）→ RetryError[<Future at 0x26a28468890 state=finished raised Exception>]
+- [2025-06-05 21:24:49] 数据更新失败（已重试3次）：隆基绿能（sh601012）→ RetryError[<Future at 0x26a28469040 state=finished raised Exception>]
+- [2025-06-05 21:24:52] 数据更新失败（已重试3次）：比亚迪（sz002594）→ RetryError[<Future at 0x26a28676db0 state=finished raised Exception>]
+- [2025-06-05 21:24:56] 数据更新失败（已重试3次）：长江电力（sh600900）→ RetryError[<Future at 0x26a286750a0 state=finished raised Exception>]
+- [2025-06-05 21:25:00] 数据更新失败（已重试3次）：美的集团（sz000333）→ RetryError[<Future at 0x26a2846a900 state=finished raised Exception>]
+- [2025-06-05 21:25:03] 数据更新失败（已重试3次）：中国神华（sh601088）→ RetryError[<Future at 0x26a28675070 state=finished raised Exception>]
+- [2025-06-05 21:25:07] 数据更新失败（已重试3次）：兴业银行（sh601166）→ RetryError[<Future at 0x26a28674440 state=finished raised Exception>]
+- [2025-06-05 21:25:10] 数据更新失败（已重试3次）：恒瑞医药（sh600276）→ RetryError[<Future at 0x26a28674fb0 state=finished raised Exception>]
+- [2025-06-05 21:25:14] 数据更新失败（已重试3次）：伊利股份（sh600887）→ RetryError[<Future at 0x26a28469190 state=finished raised Exception>]
+- [2025-06-05 21:25:18] 数据更新失败（已重试3次）：中信证券（sh600030）→ RetryError[<Future at 0x26a286746b0 state=finished raised Exception>]
+- [2025-06-05 21:25:21] 数据更新失败（已重试3次）：东方财富（sz300059）→ RetryError[<Future at 0x26a286762d0 state=finished raised Exception>]
+- [2025-06-05 21:25:25] 数据更新失败（已重试3次）：药明康德（sh603259）→ RetryError[<Future at 0x26a284d1dc0 state=finished raised Exception>]
+- [2025-06-05 21:25:28] 数据更新失败（已重试3次）：海天味业（sh603288）→ RetryError[<Future at 0x26a2842f3b0 state=finished raised Exception>]
+- [2025-06-05 21:25:32] 数据更新失败（已重试3次）：兆易创新（sh603986）→ RetryError[<Future at 0x26a284f06b0 state=finished raised Exception>]
+- [2025-06-05 21:25:36] 数据更新失败（已重试3次）：立讯精密（sz002475）→ RetryError[<Future at 0x26a2846b800 state=finished raised Exception>]
+- [2025-06-05 21:25:39] 数据更新失败（已重试3次）：海康威视（sz002415）→ RetryError[<Future at 0x26a284687a0 state=finished raised Exception>]
+- [2025-06-05 21:25:44] 数据更新失败（已重试3次）：格力电器（sz000651）→ RetryError[<Future at 0x26a284f0380 state=finished raised Exception>]
+- [2025-06-05 21:25:47] 数据更新失败（已重试3次）：泸州老窖（sz000568）→ RetryError[<Future at 0x26a28468740 state=finished raised Exception>]
+- [2025-06-05 21:25:51] 数据更新失败（已重试3次）：平安银行（sz000001）→ RetryError[<Future at 0x26a28469460 state=finished raised Exception>]
+- [2025-06-05 21:25:54] 数据更新失败（已重试3次）：迈瑞医疗（sz300760）→ RetryError[<Future at 0x26a286769f0 state=finished raised Exception>]
+- [2025-06-05 21:25:58] 数据更新失败（已重试3次）：片仔癀（sh600436）→ RetryError[<Future at 0x26a280d8170 state=finished raised Exception>]
+- [2025-06-05 21:26:02] 数据更新失败（已重试3次）：顺丰控股（sz002352）→ RetryError[<Future at 0x26a2846a150 state=finished raised Exception>]
+- [2025-06-05 21:26:05] 数据更新失败（已重试3次）：京东方A（sz000725）→ RetryError[<Future at 0x26a28676a20 state=finished raised Exception>]
+- [2025-06-05 21:26:09] 数据更新失败（已重试3次）：韦尔股份（sh603501）→ RetryError[<Future at 0x26a28675700 state=finished raised Exception>]
+- [2025-06-05 21:26:12] 数据更新失败（已重试3次）：国电南瑞（sh600406）→ RetryError[<Future at 0x26a2846a900 state=finished raised Exception>]
+- [2025-06-05 21:26:16] 数据更新失败（已重试3次）：三花智控（sz002050）→ RetryError[<Future at 0x26a284698b0 state=finished raised Exception>]
+- [2025-06-05 21:26:20] 数据更新失败（已重试3次）：爱尔眼科（sz300015）→ RetryError[<Future at 0x26a28674620 state=finished raised Exception>]
+- [2025-06-05 21:26:23] 数据更新失败（已重试3次）：通威股份（sh600438）→ RetryError[<Future at 0x26a286773e0 state=finished raised Exception>]
+- [2025-06-05 21:26:27] 数据更新失败（已重试3次）：万华化学（sh600309）→ RetryError[<Future at 0x26a28469b80 state=finished raised Exception>]
+- [2025-06-05 21:26:30] 数据更新失败（已重试3次）：中芯国际（sh688981）→ RetryError[<Future at 0x26a28677b60 state=finished raised Exception>]
+- [2025-06-05 21:26:34] 数据更新失败（已重试3次）：紫金矿业（sh601899）→ RetryError[<Future at 0x26a28676ab0 state=finished raised Exception>]
+- [2025-06-05 21:26:38] 数据更新失败（已重试3次）：洋河股份（sz002304）→ RetryError[<Future at 0x26a284d2ba0 state=finished raised Exception>]
+- [2025-06-05 21:26:41] 数据更新失败（已重试3次）：山西汾酒（sh600809）→ RetryError[<Future at 0x26a2846bd40 state=finished raised Exception>]
+- [2025-06-05 21:26:45] 数据更新失败（已重试3次）：海螺水泥（sh600585）→ RetryError[<Future at 0x26a284d05f0 state=finished raised Exception>]
+- [2025-06-05 21:26:49] 数据更新失败（已重试3次）：中信建投（sh601066）→ RetryError[<Future at 0x26a284d1400 state=finished raised Exception>]
+- [2025-06-05 21:26:52] 数据更新失败（已重试3次）：海尔智家（sh600690）→ RetryError[<Future at 0x26a284d1850 state=finished raised Exception>]
+- [2025-06-05 21:26:56] 数据更新失败（已重试3次）：宝钢股份（sh600019）→ RetryError[<Future at 0x26a28675220 state=finished raised Exception>]
+- [2025-06-05 21:27:00] 数据更新失败（已重试3次）：牧原股份（sz002714）→ RetryError[<Future at 0x26a28676240 state=finished raised Exception>]
+- [2025-06-05 21:27:03] 数据更新失败（已重试3次）：歌尔股份（sz002241）→ RetryError[<Future at 0x26a284d02c0 state=finished raised Exception>]
+- [2025-06-05 21:27:07] 数据更新失败（已重试3次）：华域汽车（sh600741）→ RetryError[<Future at 0x26a28675b80 state=finished raised Exception>]
+- [2025-06-05 21:27:10] 数据更新失败（已重试3次）：宁波银行（sz002142）→ RetryError[<Future at 0x26a28676d50 state=finished raised Exception>]
+- [2025-06-05 21:27:14] 数据更新失败（已重试3次）：中国太保（sh601601）→ RetryError[<Future at 0x26a28677200 state=finished raised Exception>]
+- [2025-06-05 21:27:18] 数据更新失败（已重试3次）：上汽集团（sh600104）→ RetryError[<Future at 0x26a284d0140 state=finished raised Exception>]
+- [2025-06-05 21:27:21] 数据更新失败（已重试3次）：中信银行（sh601998）→ RetryError[<Future at 0x26a28675a00 state=finished raised Exception>]
+- [2025-06-05 21:27:26] 数据更新失败（已重试3次）：浦发银行（sh600000）→ RetryError[<Future at 0x26a28677200 state=finished raised Exception>]
+- [2025-06-05 21:27:29] 数据更新失败（已重试3次）：华夏银行（sh600015）→ RetryError[<Future at 0x26a284d0110 state=finished raised Exception>]
+- [2025-06-05 21:27:33] 数据更新失败（已重试3次）：民生银行（sh600016）→ RetryError[<Future at 0x26a28674f80 state=finished raised Exception>]
+- [2025-06-05 21:27:37] 数据更新失败（已重试3次）：光大银行（sh601818）→ RetryError[<Future at 0x26a28676930 state=finished raised Exception>]
+- [2025-06-05 21:27:40] 数据更新失败（已重试3次）：江苏银行（sh600919）→ RetryError[<Future at 0x26a28674bf0 state=finished raised Exception>]
+- [2025-06-05 21:27:44] 数据更新失败（已重试3次）：南京银行（sh601009）→ RetryError[<Future at 0x26a282a1e80 state=finished raised Exception>]
+- [2025-06-05 21:27:47] 数据更新失败（已重试3次）：杭州银行（sh600926）→ RetryError[<Future at 0x26a28527e90 state=finished raised Exception>]
+- [2025-06-05 21:27:51] 数据更新失败（已重试3次）：成都银行（sh601838）→ RetryError[<Future at 0x26a284d0a40 state=finished raised Exception>]
+- [2025-06-05 21:27:55] 数据更新失败（已重试3次）：重庆银行（sh601963）→ RetryError[<Future at 0x26a284d0a40 state=finished raised Exception>]
+- [2025-06-05 21:27:58] 数据更新失败（已重试3次）：上海银行（sh601229）→ RetryError[<Future at 0x26a28676450 state=finished raised Exception>]
+- [2025-06-05 21:28:02] 数据更新失败（已重试3次）：贵阳银行（sh601997）→ RetryError[<Future at 0x26a28526720 state=finished raised Exception>]
+- [2025-06-05 21:28:06] 数据更新失败（已重试3次）：长沙银行（sh601577）→ RetryError[<Future at 0x26a284d1f70 state=finished raised Exception>]
+- [2025-06-05 21:28:09] 数据更新失败（已重试3次）：郑州银行（sz002936）→ RetryError[<Future at 0x26a28675490 state=finished raised Exception>]
+- [2025-06-05 21:28:13] 数据更新失败（已重试3次）：青岛银行（sz002948）→ RetryError[<Future at 0x26a28526e70 state=finished raised Exception>]
+- [2025-06-05 21:28:16] 数据更新失败（已重试3次）：苏州银行（sz002966）→ RetryError[<Future at 0x26a28524110 state=finished raised Exception>]
+- [2025-06-05 21:28:21] 数据更新失败（已重试3次）：西安银行（sh600928）→ RetryError[<Future at 0x26a28525370 state=finished raised Exception>]
+- [2025-06-05 21:28:25] 数据更新失败（已重试3次）：厦门银行（sh601187）→ RetryError[<Future at 0x26a286762d0 state=finished raised Exception>]
+- [2025-06-05 21:28:28] 数据更新失败（已重试3次）：齐鲁银行（sh601665）→ RetryError[<Future at 0x26a28525c70 state=finished raised Exception>]
+- [2025-06-05 21:28:32] 数据更新失败（已重试3次）：瑞丰银行（sh601528）→ RetryError[<Future at 0x26a284d1ca0 state=finished raised Exception>]
+- [2025-06-05 21:28:35] 数据更新失败（已重试3次）：沪农商行（sh601825）→ RetryError[<Future at 0x26a2873ed50 state=finished raised Exception>]
+- [2025-06-05 21:28:39] 数据更新失败（已重试3次）：渝农商行（sh601077）→ RetryError[<Future at 0x26a284d1c70 state=finished raised Exception>]
+- [2025-06-05 21:28:43] 数据更新失败（已重试3次）：青农商行（sz002958）→ RetryError[<Future at 0x26a28524b30 state=finished raised Exception>]
+- [2025-06-05 21:28:46] 数据更新失败（已重试3次）：紫金银行（sh601860）→ RetryError[<Future at 0x26a28527f20 state=finished raised Exception>]
+- [2025-06-05 21:28:50] 数据更新失败（已重试3次）：无锡银行（sh600908）→ RetryError[<Future at 0x26a2873e030 state=finished raised Exception>]
+- [2025-06-05 21:28:53] 数据更新失败（已重试3次）：常熟银行（sh601128）→ RetryError[<Future at 0x26a28674ad0 state=finished raised Exception>]
+- [2025-06-05 21:28:57] 数据更新失败（已重试3次）：张家港行（sz002839）→ RetryError[<Future at 0x26a28525c70 state=finished raised Exception>]
+- [2025-06-05 21:29:00] 数据更新失败（已重试3次）：苏农银行（sz002956）→ RetryError[<Future at 0x26a284d25d0 state=finished raised Exception>]
+- [2025-06-05 21:29:04] 数据更新失败（已重试3次）：江阴银行（sz002807）→ RetryError[<Future at 0x26a284d0d40 state=finished raised Exception>]
+- [2025-06-05 21:29:08] 数据更新失败（已重试3次）：浙商银行（sh601916）→ RetryError[<Future at 0x26a284d2120 state=finished raised Exception>]
+- [2025-06-05 21:29:11] 数据更新失败（已重试3次）：邮储银行（sh601658）→ RetryError[<Future at 0x26a264312e0 state=finished raised Exception>]
+- [2025-06-05 21:29:14] 数据更新失败（已重试3次）：交通银行（sh60）→ RetryError[<Future at 0x26a263d7500 state=finished raised ValueError>]
+- [2025-06-05 21:29:18] 数据更新失败（已重试3次）：建设银行（sh601939）→ RetryError[<Future at 0x26a264a7a10 state=finished raised Exception>]
+- [2025-06-05 21:29:22] 数据更新失败（已重试3次）：广大银行（sh601818）→ RetryError[<Future at 0x26a2873c8c0 state=finished raised Exception>]
+- [2025-06-05 21:35:46] 数据更新失败（已重试3次）：贵州茅台（sh600519）→ RetryError[<Future at 0x19a67e65910 state=finished raised Exception>]
+- [2025-06-05 21:35:50] 数据更新失败（已重试3次）：工商银行（sh601398）→ RetryError[<Future at 0x19a67686cc0 state=finished raised Exception>]
+- [2025-06-05 21:35:53] 数据更新失败（已重试3次）：宁德时代（sz300750）→ RetryError[<Future at 0x19a680aa7b0 state=finished raised Exception>]
+- [2025-06-05 21:35:57] 数据更新失败（已重试3次）：招商银行（sh600036）→ RetryError[<Future at 0x19a680a9040 state=finished raised Exception>]
+- [2025-06-05 21:36:30] 数据更新失败（已重试3次）：贵州茅台（sh600519）→ RetryError[<Future at 0x13cbebb6150 state=finished raised Exception>]
+- [2025-06-05 21:36:34] 数据更新失败（已重试3次）：工商银行（sh601398）→ RetryError[<Future at 0x13cbec86450 state=finished raised Exception>]
+- [2025-06-05 21:36:38] 数据更新失败（已重试3次）：宁德时代（sz300750）→ RetryError[<Future at 0x13cbec97ec0 state=finished raised Exception>]
+- [2025-06-05 21:36:41] 数据更新失败（已重试3次）：招商银行（sh600036）→ RetryError[<Future at 0x13cc0d866c0 state=finished raised Exception>]
+- [2025-06-05 21:36:45] 数据更新失败（已重试3次）：中国移动（sh600941）→ RetryError[<Future at 0x13cc0d87980 state=finished raised Exception>]
+- [2025-06-05 21:36:49] 数据更新失败（已重试3次）：中国石油（sh601857）→ RetryError[<Future at 0x13cbed1f770 state=finished raised Exception>]
+- [2025-06-05 21:36:52] 数据更新失败（已重试3次）：农业银行（sh601288）→ RetryError[<Future at 0x13cc0d87560 state=finished raised Exception>]
+- [2025-06-05 21:36:56] 数据更新失败（已重试3次）：中国银行（sh601988）→ RetryError[<Future at 0x13cc0d86510 state=finished raised Exception>]
+- [2025-06-05 21:38:21] 数据更新失败（已重试3次）：贵州茅台（sh600519）→ RetryError[<Future at 0x1c2395e32c0 state=finished raised Exception>]
+- [2025-06-05 21:38:25] 数据更新失败（已重试3次）：工商银行（sh601398）→ RetryError[<Future at 0x1c2396d9dc0 state=finished raised Exception>]
+- [2025-06-05 21:38:28] 数据更新失败（已重试3次）：宁德时代（sz300750）→ RetryError[<Future at 0x1c239ce48f0 state=finished raised Exception>]
+- [2025-06-05 21:38:31] 数据更新失败（已重试3次）：招商银行（sh600036）→ RetryError[<Future at 0x1c239ce73e0 state=finished raised Exception>]
+- [2025-06-05 21:38:35] 数据更新失败（已重试3次）：中国移动（sh600941）→ RetryError[<Future at 0x1c239ce7380 state=finished raised Exception>]
+- [2025-06-05 21:47:07] 数据更新失败（已重试3次）：贵州茅台（sh600519）→ RetryError[<Future at 0x1a6527b82f0 state=finished raised Exception>]
+- [2025-06-05 21:47:10] 数据更新失败（已重试3次）：工商银行（sh601398）→ RetryError[<Future at 0x1a652a18e00 state=finished raised Exception>]
+- [2025-06-05 21:49:03] 数据更新失败（已重试3次）：贵州茅台（sh600519）→ RetryError[<Future at 0x1a3dd065eb0 state=finished raised TypeError>]
+- [2025-06-05 21:49:06] 数据更新失败（已重试3次）：工商银行（sh601398）→ RetryError[<Future at 0x1a3abdca5d0 state=finished raised TypeError>]
+- [2025-06-05 21:49:09] 数据更新失败（已重试3次）：宁德时代（sz300750）→ RetryError[<Future at 0x1a3dcda33b0 state=finished raised TypeError>]
+- [2025-06-05 21:49:13] 数据更新失败（已重试3次）：招商银行（sh600036）→ RetryError[<Future at 0x1a3dcfda720 state=finished raised TypeError>]
+- [2025-06-05 21:49:16] 数据更新失败（已重试3次）：中国移动（sh600941）→ RetryError[<Future at 0x1a3dd0ad5b0 state=finished raised TypeError>]
+- [2025-06-05 21:49:19] 数据更新失败（已重试3次）：中国石油（sh601857）→ RetryError[<Future at 0x1a3dd0d0f20 state=finished raised TypeError>]
