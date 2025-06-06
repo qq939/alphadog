@@ -14,7 +14,8 @@ import threading
 
 def load_config() -> float:
     """加载goal.yaml中的目标收益率（保持原逻辑）"""
-    with open(r"c:\Users\jimjiang\PycharmProjects\AlphaDog\goal.yaml", "r", encoding="utf-8") as f:
+    goal_path = project_root / "goal.yaml"
+    with open(goal_path, "r", encoding="utf-8") as f:
         config = yaml.safe_load(f)
     return float(config["target_return"].strip("%")) / 100
 
@@ -23,7 +24,8 @@ def run_strategy():
     target = load_config()
     # 遍历所有股票数据文件
     all_trades = []
-    for path in Path(r"c:\Users\jimjiang\PycharmProjects\AlphaDog\data").glob("*.csv"):
+    data_dir = project_root / "data"
+    for path in data_dir.glob("*.csv"):
         stock_data = pd.read_csv(path)
         strategy = HighConfidenceReturnStrategy(target)
         all_trades.extend(strategy.calculate_signals(stock_data))
@@ -37,7 +39,8 @@ def run_strategy():
     top_28 = sorted_trades[:28]  # 取前28只股票
 
     # 合并循环：同时处理终端显示和文件写入
-    with open(r"c:\Users\jimjiang\PycharmProjects\AlphaDog\good_stocks.txt", "w", encoding="utf-8") as f:
+    good_stocks_path = project_root / "good_stocks.txt"
+    with open(good_stocks_path, "w", encoding="utf-8") as f:
         f.write("股票名称 | 股票代码 | 买入价 | 卖出价 | 预测模型 | 实际收益率（扣除成本）\n")
         f.write("-"*60 + "\n")
         

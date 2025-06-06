@@ -870,3 +870,685 @@
 - [2025-06-05 21:49:13] 数据更新失败（已重试3次）：招商银行（sh600036）→ RetryError[<Future at 0x1a3dcfda720 state=finished raised TypeError>]
 - [2025-06-05 21:49:16] 数据更新失败（已重试3次）：中国移动（sh600941）→ RetryError[<Future at 0x1a3dd0ad5b0 state=finished raised TypeError>]
 - [2025-06-05 21:49:19] 数据更新失败（已重试3次）：中国石油（sh601857）→ RetryError[<Future at 0x1a3dd0d0f20 state=finished raised TypeError>]
+- [2025-06-06 08:20:23] 创建数据目录：c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data
+- [2025-06-06 08:20:24] 数据更新成功：贵州茅台（sh600519）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600519.csv）
+- [2025-06-06 08:20:27] 数据更新成功：工商银行（sh601398）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601398.csv）
+- [2025-06-06 08:20:29] 数据更新成功：宁德时代（sz300750）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz300750.csv）
+- [2025-06-06 08:20:31] 数据更新成功：招商银行（sh600036）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600036.csv）
+- [2025-06-06 08:20:33] 数据更新成功：中国移动（sh600941）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600941.csv）
+- [2025-06-06 08:20:36] 数据更新成功：中国石油（sh601857）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601857.csv）
+- [2025-06-06 08:20:38] 数据更新成功：农业银行（sh601288）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601288.csv）
+- [2025-06-06 08:20:40] 数据更新成功：中国银行（sh601988）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601988.csv）
+- [2025-06-06 08:20:42] 数据更新成功：中国平安（sh601318）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601318.csv）
+- [2025-06-06 08:20:45] 数据更新成功：五粮液（sz000858）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz000858.csv）
+- [2025-06-06 08:20:47] 数据更新成功：隆基绿能（sh601012）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601012.csv）
+- [2025-06-06 08:20:49] 数据更新成功：比亚迪（sz002594）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002594.csv）
+- [2025-06-06 08:20:51] 数据更新成功：长江电力（sh600900）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600900.csv）
+- [2025-06-06 08:20:54] 数据更新成功：美的集团（sz000333）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz000333.csv）
+- [2025-06-06 08:20:56] 数据更新成功：中国神华（sh601088）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601088.csv）
+- [2025-06-06 08:20:58] 数据更新成功：兴业银行（sh601166）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601166.csv）
+- [2025-06-06 08:21:00] 数据更新成功：恒瑞医药（sh600276）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600276.csv）
+- [2025-06-06 08:21:03] 数据更新成功：伊利股份（sh600887）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600887.csv）
+- [2025-06-06 08:21:05] 数据更新成功：中信证券（sh600030）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600030.csv）
+- [2025-06-06 08:21:07] 数据更新成功：东方财富（sz300059）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz300059.csv）
+- [2025-06-06 08:21:09] 数据更新成功：药明康德（sh603259）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh603259.csv）
+- [2025-06-06 08:21:12] 数据更新成功：海天味业（sh603288）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh603288.csv）
+- [2025-06-06 08:21:14] 数据更新成功：兆易创新（sh603986）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh603986.csv）
+- [2025-06-06 08:21:16] 数据更新成功：立讯精密（sz002475）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002475.csv）
+- [2025-06-06 08:21:18] 数据更新成功：海康威视（sz002415）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002415.csv）
+- [2025-06-06 08:21:21] 数据更新成功：格力电器（sz000651）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz000651.csv）
+- [2025-06-06 08:21:23] 数据更新成功：泸州老窖（sz000568）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz000568.csv）
+- [2025-06-06 08:21:26] 数据更新成功：平安银行（sz000001）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz000001.csv）
+- [2025-06-06 08:21:28] 数据更新成功：迈瑞医疗（sz300760）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz300760.csv）
+- [2025-06-06 08:21:30] 数据更新成功：片仔癀（sh600436）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600436.csv）
+- [2025-06-06 08:21:32] 数据更新成功：顺丰控股（sz002352）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002352.csv）
+- [2025-06-06 08:21:35] 数据更新成功：京东方A（sz000725）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz000725.csv）
+- [2025-06-06 08:21:37] 数据更新成功：韦尔股份（sh603501）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh603501.csv）
+- [2025-06-06 08:21:39] 数据更新成功：国电南瑞（sh600406）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600406.csv）
+- [2025-06-06 08:21:41] 数据更新成功：三花智控（sz002050）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002050.csv）
+- [2025-06-06 08:21:44] 数据更新成功：爱尔眼科（sz300015）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz300015.csv）
+- [2025-06-06 08:21:46] 数据更新成功：通威股份（sh600438）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600438.csv）
+- [2025-06-06 08:21:48] 数据更新成功：万华化学（sh600309）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600309.csv）
+- [2025-06-06 08:21:50] 数据更新成功：中芯国际（sh688981）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh688981.csv）
+- [2025-06-06 08:21:53] 数据更新成功：紫金矿业（sh601899）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601899.csv）
+- [2025-06-06 08:21:55] 数据更新成功：洋河股份（sz002304）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002304.csv）
+- [2025-06-06 08:21:57] 数据更新成功：山西汾酒（sh600809）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600809.csv）
+- [2025-06-06 08:21:59] 数据更新成功：海螺水泥（sh600585）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600585.csv）
+- [2025-06-06 08:22:02] 数据更新成功：中信建投（sh601066）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601066.csv）
+- [2025-06-06 08:22:04] 数据更新成功：海尔智家（sh600690）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600690.csv）
+- [2025-06-06 08:22:06] 数据更新成功：宝钢股份（sh600019）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600019.csv）
+- [2025-06-06 08:22:08] 数据更新成功：牧原股份（sz002714）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002714.csv）
+- [2025-06-06 08:22:11] 数据更新成功：歌尔股份（sz002241）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002241.csv）
+- [2025-06-06 08:22:13] 数据更新成功：华域汽车（sh600741）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600741.csv）
+- [2025-06-06 08:22:15] 数据更新成功：宁波银行（sz002142）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002142.csv）
+- [2025-06-06 08:22:17] 数据更新成功：中国太保（sh601601）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601601.csv）
+- [2025-06-06 08:22:20] 数据更新成功：上汽集团（sh600104）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600104.csv）
+- [2025-06-06 08:22:22] 数据更新成功：中信银行（sh601998）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601998.csv）
+- [2025-06-06 08:22:24] 数据更新成功：浦发银行（sh600000）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600000.csv）
+- [2025-06-06 08:22:26] 数据更新成功：华夏银行（sh600015）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600015.csv）
+- [2025-06-06 08:22:28] 数据更新成功：民生银行（sh600016）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600016.csv）
+- [2025-06-06 08:22:31] 数据更新成功：光大银行（sh601818）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601818.csv）
+- [2025-06-06 08:22:33] 数据更新成功：江苏银行（sh600919）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600919.csv）
+- [2025-06-06 08:22:35] 数据更新成功：南京银行（sh601009）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601009.csv）
+- [2025-06-06 08:22:37] 数据更新成功：杭州银行（sh600926）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600926.csv）
+- [2025-06-06 08:22:40] 数据更新成功：成都银行（sh601838）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601838.csv）
+- [2025-06-06 08:22:42] 数据更新成功：重庆银行（sh601963）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601963.csv）
+- [2025-06-06 08:22:44] 数据更新成功：上海银行（sh601229）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601229.csv）
+- [2025-06-06 08:22:46] 数据更新成功：贵阳银行（sh601997）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601997.csv）
+- [2025-06-06 08:22:49] 数据更新成功：长沙银行（sh601577）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601577.csv）
+- [2025-06-06 08:22:51] 数据更新成功：郑州银行（sz002936）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002936.csv）
+- [2025-06-06 08:22:53] 数据更新成功：青岛银行（sz002948）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002948.csv）
+- [2025-06-06 08:22:55] 数据更新成功：苏州银行（sz002966）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002966.csv）
+- [2025-06-06 08:22:58] 数据更新成功：西安银行（sh600928）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600928.csv）
+- [2025-06-06 08:23:00] 数据更新成功：厦门银行（sh601187）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601187.csv）
+- [2025-06-06 08:23:02] 数据更新成功：齐鲁银行（sh601665）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601665.csv）
+- [2025-06-06 08:23:04] 数据更新成功：瑞丰银行（sh601528）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601528.csv）
+- [2025-06-06 08:23:07] 数据更新成功：沪农商行（sh601825）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601825.csv）
+- [2025-06-06 08:23:09] 数据更新成功：渝农商行（sh601077）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601077.csv）
+- [2025-06-06 08:23:11] 数据更新成功：青农商行（sz002958）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002958.csv）
+- [2025-06-06 08:23:13] 数据更新成功：紫金银行（sh601860）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601860.csv）
+- [2025-06-06 08:23:16] 数据更新成功：无锡银行（sh600908）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600908.csv）
+- [2025-06-06 08:23:18] 数据更新成功：常熟银行（sh601128）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601128.csv）
+- [2025-06-06 08:23:20] 数据更新成功：张家港行（sz002839）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002839.csv）
+- [2025-06-06 08:23:22] 数据更新成功：苏农银行（sz002956）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002956.csv）
+- [2025-06-06 08:23:24] 数据更新成功：江阴银行（sz002807）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002807.csv）
+- [2025-06-06 08:23:27] 数据更新成功：浙商银行（sh601916）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601916.csv）
+- [2025-06-06 08:23:29] 数据更新成功：邮储银行（sh601658）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601658.csv）
+- [2025-06-06 08:23:48] 数据更新失败（已重试5次）：交通银行（sh60）→ Tushare未返回数据：sh60
+- [2025-06-06 08:23:50] 数据更新成功：建设银行（sh601939）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601939.csv）
+- [2025-06-06 08:23:52] 数据更新成功：广大银行（sh601818）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601818.csv）
+- [2025-06-06 08:27:03] 数据更新成功：贵州茅台（sh600519）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600519.csv）
+- [2025-06-06 08:27:05] 数据更新成功：工商银行（sh601398）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601398.csv）
+- [2025-06-06 08:27:07] 数据更新成功：宁德时代（sz300750）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz300750.csv）
+- [2025-06-06 08:27:09] 数据更新成功：招商银行（sh600036）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600036.csv）
+- [2025-06-06 08:27:11] 数据更新成功：中国移动（sh600941）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600941.csv）
+- [2025-06-06 08:27:14] 数据更新成功：中国石油（sh601857）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601857.csv）
+- [2025-06-06 08:27:16] 数据更新成功：农业银行（sh601288）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601288.csv）
+- [2025-06-06 08:27:18] 数据更新成功：中国银行（sh601988）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601988.csv）
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 数据更新成功：贵州茅台（sh600519）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600519.csv）
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:33] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:27:34] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=nan, 上界=nan
+- [2025-06-06 08:34:27] 数据更新成功：贵州茅台（sh600519）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600519.csv）
+- [2025-06-06 08:34:29] 数据更新成功：工商银行（sh601398）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601398.csv）
+- [2025-06-06 08:34:31] 数据更新成功：宁德时代（sz300750）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz300750.csv）
+- [2025-06-06 08:34:33] 数据更新成功：招商银行（sh600036）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600036.csv）
+- [2025-06-06 08:34:35] 数据更新成功：中国移动（sh600941）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600941.csv）
+- [2025-06-06 08:34:38] 数据更新成功：中国石油（sh601857）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601857.csv）
+- [2025-06-06 08:34:40] 数据更新成功：农业银行（sh601288）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601288.csv）
+- [2025-06-06 08:34:42] 数据更新成功：中国银行（sh601988）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601988.csv）
+- [2025-06-06 08:34:44] 数据更新成功：中国平安（sh601318）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601318.csv）
+- [2025-06-06 08:34:47] 数据更新成功：五粮液（sz000858）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz000858.csv）
+- [2025-06-06 08:34:49] 数据更新成功：隆基绿能（sh601012）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601012.csv）
+- [2025-06-06 08:34:51] 数据更新成功：比亚迪（sz002594）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002594.csv）
+- [2025-06-06 08:34:54] 数据更新成功：长江电力（sh600900）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600900.csv）
+- [2025-06-06 08:34:56] 数据更新成功：美的集团（sz000333）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz000333.csv）
+- [2025-06-06 08:34:58] 数据更新成功：中国神华（sh601088）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601088.csv）
+- [2025-06-06 08:35:00] 数据更新成功：兴业银行（sh601166）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601166.csv）
+- [2025-06-06 08:35:03] 数据更新成功：恒瑞医药（sh600276）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600276.csv）
+- [2025-06-06 08:35:05] 数据更新成功：伊利股份（sh600887）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600887.csv）
+- [2025-06-06 08:35:07] 数据更新成功：中信证券（sh600030）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600030.csv）
+- [2025-06-06 08:35:09] 数据更新成功：东方财富（sz300059）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz300059.csv）
+- [2025-06-06 08:35:11] 数据更新成功：药明康德（sh603259）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh603259.csv）
+- [2025-06-06 08:35:13] 数据更新成功：海天味业（sh603288）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh603288.csv）
+- [2025-06-06 08:35:15] 数据更新成功：兆易创新（sh603986）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh603986.csv）
+- [2025-06-06 08:35:18] 数据更新成功：立讯精密（sz002475）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002475.csv）
+- [2025-06-06 08:35:20] 数据更新成功：海康威视（sz002415）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002415.csv）
+- [2025-06-06 08:35:22] 数据更新成功：格力电器（sz000651）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz000651.csv）
+- [2025-06-06 08:35:24] 数据更新成功：泸州老窖（sz000568）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz000568.csv）
+- [2025-06-06 08:35:26] 数据更新成功：平安银行（sz000001）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz000001.csv）
+- [2025-06-06 08:35:28] 数据更新成功：迈瑞医疗（sz300760）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz300760.csv）
+- [2025-06-06 08:35:31] 数据更新成功：片仔癀（sh600436）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600436.csv）
+- [2025-06-06 08:35:33] 数据更新成功：顺丰控股（sz002352）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002352.csv）
+- [2025-06-06 08:35:35] 数据更新成功：京东方A（sz000725）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz000725.csv）
+- [2025-06-06 08:35:37] 数据更新成功：韦尔股份（sh603501）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh603501.csv）
+- [2025-06-06 08:35:39] 数据更新成功：国电南瑞（sh600406）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600406.csv）
+- [2025-06-06 08:35:41] 数据更新成功：三花智控（sz002050）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002050.csv）
+- [2025-06-06 08:35:44] 数据更新成功：爱尔眼科（sz300015）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz300015.csv）
+- [2025-06-06 08:35:46] 数据更新成功：通威股份（sh600438）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600438.csv）
+- [2025-06-06 08:35:48] 数据更新成功：万华化学（sh600309）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600309.csv）
+- [2025-06-06 08:35:50] 数据更新成功：中芯国际（sh688981）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh688981.csv）
+- [2025-06-06 08:35:52] 数据更新成功：紫金矿业（sh601899）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601899.csv）
+- [2025-06-06 08:35:54] 数据更新成功：洋河股份（sz002304）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002304.csv）
+- [2025-06-06 08:35:57] 数据更新成功：山西汾酒（sh600809）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600809.csv）
+- [2025-06-06 08:35:59] 数据更新成功：海螺水泥（sh600585）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600585.csv）
+- [2025-06-06 08:36:01] 数据更新成功：中信建投（sh601066）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601066.csv）
+- [2025-06-06 08:36:03] 数据更新成功：海尔智家（sh600690）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600690.csv）
+- [2025-06-06 08:36:06] 数据更新成功：宝钢股份（sh600019）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600019.csv）
+- [2025-06-06 08:36:08] 数据更新成功：牧原股份（sz002714）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002714.csv）
+- [2025-06-06 08:36:10] 数据更新成功：歌尔股份（sz002241）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002241.csv）
+- [2025-06-06 08:36:12] 数据更新成功：华域汽车（sh600741）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600741.csv）
+- [2025-06-06 08:36:14] 数据更新成功：宁波银行（sz002142）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002142.csv）
+- [2025-06-06 08:36:17] 数据更新成功：中国太保（sh601601）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601601.csv）
+- [2025-06-06 08:36:19] 数据更新成功：上汽集团（sh600104）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600104.csv）
+- [2025-06-06 08:36:21] 数据更新成功：中信银行（sh601998）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601998.csv）
+- [2025-06-06 08:36:23] 数据更新成功：浦发银行（sh600000）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600000.csv）
+- [2025-06-06 08:36:25] 数据更新成功：华夏银行（sh600015）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600015.csv）
+- [2025-06-06 08:36:27] 数据更新成功：民生银行（sh600016）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600016.csv）
+- [2025-06-06 08:36:29] 数据更新成功：光大银行（sh601818）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601818.csv）
+- [2025-06-06 08:36:31] 数据更新成功：江苏银行（sh600919）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600919.csv）
+- [2025-06-06 08:36:34] 数据更新成功：南京银行（sh601009）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601009.csv）
+- [2025-06-06 08:36:36] 数据更新成功：杭州银行（sh600926）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600926.csv）
+- [2025-06-06 08:36:38] 数据更新成功：成都银行（sh601838）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601838.csv）
+- [2025-06-06 08:36:40] 数据更新成功：重庆银行（sh601963）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601963.csv）
+- [2025-06-06 08:36:42] 数据更新成功：上海银行（sh601229）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601229.csv）
+- [2025-06-06 08:36:44] 数据更新成功：贵阳银行（sh601997）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601997.csv）
+- [2025-06-06 08:36:46] 数据更新成功：长沙银行（sh601577）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601577.csv）
+- [2025-06-06 08:36:49] 数据更新成功：郑州银行（sz002936）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002936.csv）
+- [2025-06-06 08:36:51] 数据更新成功：青岛银行（sz002948）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002948.csv）
+- [2025-06-06 08:36:53] 数据更新成功：苏州银行（sz002966）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002966.csv）
+- [2025-06-06 08:36:55] 数据更新成功：西安银行（sh600928）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600928.csv）
+- [2025-06-06 08:36:57] 数据更新成功：厦门银行（sh601187）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601187.csv）
+- [2025-06-06 08:36:59] 数据更新成功：齐鲁银行（sh601665）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601665.csv）
+- [2025-06-06 08:37:02] 数据更新成功：瑞丰银行（sh601528）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601528.csv）
+- [2025-06-06 08:37:04] 数据更新成功：沪农商行（sh601825）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601825.csv）
+- [2025-06-06 08:37:06] 数据更新成功：渝农商行（sh601077）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601077.csv）
+- [2025-06-06 08:37:08] 数据更新成功：青农商行（sz002958）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002958.csv）
+- [2025-06-06 08:37:10] 数据更新成功：紫金银行（sh601860）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601860.csv）
+- [2025-06-06 08:37:12] 数据更新成功：无锡银行（sh600908）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600908.csv）
+- [2025-06-06 08:37:14] 数据更新成功：常熟银行（sh601128）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601128.csv）
+- [2025-06-06 08:37:17] 数据更新成功：张家港行（sz002839）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002839.csv）
+- [2025-06-06 08:37:19] 数据更新成功：苏农银行（sz002956）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002956.csv）
+- [2025-06-06 08:37:21] 数据更新成功：江阴银行（sz002807）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002807.csv）
+- [2025-06-06 08:37:23] 数据更新成功：浙商银行（sh601916）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601916.csv）
+- [2025-06-06 08:37:25] 数据更新成功：邮储银行（sh601658）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601658.csv）
+- [2025-06-06 08:37:27] 数据更新成功：交通银行（sh601328）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601328.csv）
+- [2025-06-06 08:37:29] 数据更新成功：建设银行（sh601939）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601939.csv）
+- [2025-06-06 08:37:52] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.18, 上界=0.27
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.14, 上界=0.20
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.10, 上界=0.12
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.31, 上界=0.37
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.80, 上界=1.34
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-3.23, 上界=3.93
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.21, 上界=0.30
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.44, 上界=1.23
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-3.62, 上界=5.80
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.10, 上界=1.15
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-17.93, 上界=21.19
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-3.04, 上界=0.78
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-21.13, 上界=69.77
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.35, 上界=2.47
+- [2025-06-06 08:37:53] 数据更新成功：贵州茅台（sh600519）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600519.csv）
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.96, 上界=1.70
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.87, 上界=1.56
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-5.46, 上界=6.69
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.60, 上界=1.18
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.87, 上界=0.82
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.21, 上界=0.24
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.30, 上界=0.38
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.49, 上界=0.74
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.15, 上界=0.16
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.71, 上界=4.34
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.29, 上界=0.50
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-7.36, 上界=1.96
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.68, 上界=0.79
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.06, 上界=0.10
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.20, 上界=1.49
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.23, 上界=0.37
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.85, 上界=1.03
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.23, 上界=0.39
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.13, 上界=0.19
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.03, 上界=0.07
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.33, 上界=3.73
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.12, 上界=0.21
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.07, 上界=0.13
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.23, 上界=0.41
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.22, 上界=0.33
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.86, 上界=1.23
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.25, 上界=0.29
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.19, 上界=0.38
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.06, 上界=0.10
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.10, 上界=0.14
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.48, 上界=0.59
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.34, 上界=0.24
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.07, 上界=0.10
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.79, 上界=0.72
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.05, 上界=0.05
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.12, 上界=0.22
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.21, 上界=0.18
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.05, 上界=0.10
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.17, 上界=0.26
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.16, 上界=0.28
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-6.81, 上界=5.68
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-4.98, 上界=3.26
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-10.72, 上界=3.65
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-7.68, 上界=2.08
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.47, 上界=0.89
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.76, 上界=1.27
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.03, 上界=4.48
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.91, 上界=9.23
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.64, 上界=1.61
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.12, 上界=0.18
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-3.97, 上界=9.04
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.51, 上界=1.09
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.86, 上界=2.68
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.25, 上界=2.48
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-3.71, 上界=7.29
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.72, 上界=2.56
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.09, 上界=0.89
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.24, 上界=1.70
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-11.55, 上界=13.98
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.88, 上界=3.30
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.12, 上界=0.22
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.28, 上界=0.30
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.08, 上界=0.10
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.11, 上界=0.13
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.49, 上界=0.21
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.13, 上界=0.20
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.35, 上界=0.28
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.36, 上界=2.64
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.15, 上界=1.56
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-29.43, 上界=34.65
+- [2025-06-06 08:37:53] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-10.74, 上界=11.56
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.18, 上界=0.27
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.14, 上界=0.20
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.10, 上界=0.12
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.31, 上界=0.37
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.80, 上界=1.34
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-3.23, 上界=3.93
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.21, 上界=0.30
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.44, 上界=1.23
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-3.62, 上界=5.80
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.10, 上界=1.15
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-17.93, 上界=21.19
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-3.04, 上界=0.78
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-21.13, 上界=69.77
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.35, 上界=2.47
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.96, 上界=1.70
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.87, 上界=1.56
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-5.46, 上界=6.69
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.60, 上界=1.18
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.87, 上界=0.82
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.21, 上界=0.24
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.30, 上界=0.38
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.49, 上界=0.74
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.15, 上界=0.16
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.71, 上界=4.34
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.29, 上界=0.50
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-7.36, 上界=1.96
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.68, 上界=0.79
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.06, 上界=0.10
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.20, 上界=1.49
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.23, 上界=0.37
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.85, 上界=1.03
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.23, 上界=0.39
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.13, 上界=0.19
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.03, 上界=0.07
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.33, 上界=3.73
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.12, 上界=0.21
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.07, 上界=0.13
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.23, 上界=0.41
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.22, 上界=0.33
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.86, 上界=1.23
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.25, 上界=0.29
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.19, 上界=0.38
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.06, 上界=0.10
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.10, 上界=0.14
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.48, 上界=0.59
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.34, 上界=0.24
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.07, 上界=0.10
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.79, 上界=0.72
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.05, 上界=0.05
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.12, 上界=0.22
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.21, 上界=0.18
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.05, 上界=0.10
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.17, 上界=0.26
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.16, 上界=0.28
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-6.81, 上界=5.68
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-4.98, 上界=3.26
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-10.72, 上界=3.65
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-7.68, 上界=2.08
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.47, 上界=0.89
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.76, 上界=1.27
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.03, 上界=4.48
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.91, 上界=9.23
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.64, 上界=1.61
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.12, 上界=0.18
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-3.97, 上界=9.04
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.51, 上界=1.09
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.86, 上界=2.68
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.25, 上界=2.48
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-3.71, 上界=7.29
+- [2025-06-06 08:45:56] 数据更新成功：贵州茅台（sh600519）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600519.csv）
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.72, 上界=2.56
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.09, 上界=0.89
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.24, 上界=1.70
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-11.55, 上界=13.98
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.88, 上界=3.30
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.12, 上界=0.22
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.28, 上界=0.30
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.08, 上界=0.10
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.11, 上界=0.13
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.49, 上界=0.21
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.13, 上界=0.20
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.35, 上界=0.28
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.36, 上界=2.64
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.15, 上界=1.56
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-29.43, 上界=34.65
+- [2025-06-06 08:45:56] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-10.74, 上界=11.56
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.18, 上界=0.27
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.14, 上界=0.20
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.10, 上界=0.12
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.31, 上界=0.37
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.80, 上界=1.34
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-3.23, 上界=3.93
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.21, 上界=0.30
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.44, 上界=1.23
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-3.62, 上界=5.80
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.10, 上界=1.15
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-17.93, 上界=21.19
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-3.04, 上界=0.78
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-21.13, 上界=69.77
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.35, 上界=2.47
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.96, 上界=1.70
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.87, 上界=1.56
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-5.46, 上界=6.69
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.60, 上界=1.18
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.87, 上界=0.82
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.21, 上界=0.24
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.30, 上界=0.38
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.49, 上界=0.74
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.15, 上界=0.16
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.71, 上界=4.34
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.29, 上界=0.50
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-7.36, 上界=1.96
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.68, 上界=0.79
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.06, 上界=0.10
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.20, 上界=1.49
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.23, 上界=0.37
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.85, 上界=1.03
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.23, 上界=0.39
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.13, 上界=0.19
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.03, 上界=0.07
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.33, 上界=3.73
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.12, 上界=0.21
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.07, 上界=0.13
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.23, 上界=0.41
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.22, 上界=0.33
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.86, 上界=1.23
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.25, 上界=0.29
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.19, 上界=0.38
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.06, 上界=0.10
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.10, 上界=0.14
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.48, 上界=0.59
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.34, 上界=0.24
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.07, 上界=0.10
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.79, 上界=0.72
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.05, 上界=0.05
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.12, 上界=0.22
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.21, 上界=0.18
+- [2025-06-06 08:49:08] 数据更新成功：贵州茅台（sh600519）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600519.csv）
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.05, 上界=0.10
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.17, 上界=0.26
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.16, 上界=0.28
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-6.81, 上界=5.68
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-4.98, 上界=3.26
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-10.72, 上界=3.65
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-7.68, 上界=2.08
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.47, 上界=0.89
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.76, 上界=1.27
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.03, 上界=4.48
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.91, 上界=9.23
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.64, 上界=1.61
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.12, 上界=0.18
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-3.97, 上界=9.04
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.51, 上界=1.09
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.86, 上界=2.68
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.25, 上界=2.48
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-3.71, 上界=7.29
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.72, 上界=2.56
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.09, 上界=0.89
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.24, 上界=1.70
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-11.55, 上界=13.98
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.88, 上界=3.30
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.12, 上界=0.22
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.28, 上界=0.30
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.08, 上界=0.10
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.11, 上界=0.13
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.49, 上界=0.21
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.13, 上界=0.20
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.35, 上界=0.28
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.36, 上界=2.64
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.15, 上界=1.56
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-29.43, 上界=34.65
+- [2025-06-06 08:49:08] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-10.74, 上界=11.56
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.18, 上界=0.27
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.14, 上界=0.20
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.10, 上界=0.12
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.31, 上界=0.37
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.80, 上界=1.34
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-3.23, 上界=3.93
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.21, 上界=0.30
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.44, 上界=1.23
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-3.62, 上界=5.80
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.10, 上界=1.15
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-17.93, 上界=21.19
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-3.04, 上界=0.78
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-21.13, 上界=69.77
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.35, 上界=2.47
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.96, 上界=1.70
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.87, 上界=1.56
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-5.46, 上界=6.69
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.60, 上界=1.18
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.87, 上界=0.82
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.21, 上界=0.24
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.30, 上界=0.38
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.49, 上界=0.74
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.15, 上界=0.16
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.71, 上界=4.34
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.29, 上界=0.50
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-7.36, 上界=1.96
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.68, 上界=0.79
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.06, 上界=0.10
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.20, 上界=1.49
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.23, 上界=0.37
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.85, 上界=1.03
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.23, 上界=0.39
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.13, 上界=0.19
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.03, 上界=0.07
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.33, 上界=3.73
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.12, 上界=0.21
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.07, 上界=0.13
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.23, 上界=0.41
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.22, 上界=0.33
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.86, 上界=1.23
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.25, 上界=0.29
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.19, 上界=0.38
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.06, 上界=0.10
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.10, 上界=0.14
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.48, 上界=0.59
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.34, 上界=0.24
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.07, 上界=0.10
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.79, 上界=0.72
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.05, 上界=0.05
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.12, 上界=0.22
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.21, 上界=0.18
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.05, 上界=0.10
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.17, 上界=0.26
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.16, 上界=0.28
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-6.81, 上界=5.68
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-4.98, 上界=3.26
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-10.72, 上界=3.65
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-7.68, 上界=2.08
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.47, 上界=0.89
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.76, 上界=1.27
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.03, 上界=4.48
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.91, 上界=9.23
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.64, 上界=1.61
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.12, 上界=0.18
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-3.97, 上界=9.04
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.51, 上界=1.09
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.86, 上界=2.68
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.25, 上界=2.48
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-3.71, 上界=7.29
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.72, 上界=2.56
+- [2025-06-06 09:02:48] 数据更新成功：贵州茅台（sh600519）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600519.csv）
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.09, 上界=0.89
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.24, 上界=1.70
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-11.55, 上界=13.98
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.88, 上界=3.30
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.12, 上界=0.22
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.28, 上界=0.30
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.08, 上界=0.10
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.11, 上界=0.13
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.49, 上界=0.21
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.13, 上界=0.20
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-0.35, 上界=0.28
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-2.36, 上界=2.64
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-1.15, 上界=1.56
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-29.43, 上界=34.65
+- [2025-06-06 09:02:48] 使用策略 MACDConfidenceIntervalStrategy 计算置信区间: 下界=-10.74, 上界=11.56
+- [2025-06-06 09:10:06] 数据更新成功：贵州茅台（sh600519）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600519.csv）
+- [2025-06-06 09:10:08] 数据更新成功：工商银行（sh601398）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601398.csv）
+- [2025-06-06 09:10:10] 数据更新成功：宁德时代（sz300750）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz300750.csv）
+- [2025-06-06 09:10:12] 数据更新成功：招商银行（sh600036）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600036.csv）
+- [2025-06-06 09:10:15] 数据更新成功：中国移动（sh600941）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600941.csv）
+- [2025-06-06 09:10:17] 数据更新成功：中国石油（sh601857）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601857.csv）
+- [2025-06-06 09:10:19] 数据更新成功：农业银行（sh601288）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601288.csv）
+- [2025-06-06 09:10:21] 数据更新成功：中国银行（sh601988）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601988.csv）
+- [2025-06-06 09:10:23] 数据更新成功：中国平安（sh601318）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601318.csv）
+- [2025-06-06 09:10:25] 数据更新成功：五粮液（sz000858）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz000858.csv）
+- [2025-06-06 09:10:28] 数据更新成功：隆基绿能（sh601012）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601012.csv）
+- [2025-06-06 09:10:30] 数据更新成功：比亚迪（sz002594）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002594.csv）
+- [2025-06-06 09:10:32] 数据更新成功：长江电力（sh600900）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600900.csv）
+- [2025-06-06 09:10:34] 数据更新成功：美的集团（sz000333）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz000333.csv）
+- [2025-06-06 09:10:36] 数据更新成功：中国神华（sh601088）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601088.csv）
+- [2025-06-06 09:10:39] 数据更新成功：兴业银行（sh601166）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh601166.csv）
+- [2025-06-06 09:10:41] 数据更新成功：恒瑞医药（sh600276）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600276.csv）
+- [2025-06-06 09:10:43] 数据更新成功：伊利股份（sh600887）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600887.csv）
+- [2025-06-06 09:10:45] 数据更新成功：中信证券（sh600030）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600030.csv）
+- [2025-06-06 09:10:47] 数据更新成功：东方财富（sz300059）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz300059.csv）
+- [2025-06-06 09:10:49] 数据更新成功：药明康德（sh603259）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh603259.csv）
+- [2025-06-06 09:10:51] 数据更新成功：海天味业（sh603288）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh603288.csv）
+- [2025-06-06 09:10:54] 数据更新成功：兆易创新（sh603986）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh603986.csv）
+- [2025-06-06 09:10:56] 数据更新成功：立讯精密（sz002475）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002475.csv）
+- [2025-06-06 09:10:58] 数据更新成功：海康威视（sz002415）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002415.csv）
+- [2025-06-06 09:11:00] 数据更新成功：格力电器（sz000651）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz000651.csv）
+- [2025-06-06 09:11:02] 数据更新成功：泸州老窖（sz000568）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz000568.csv）
+- [2025-06-06 09:11:04] 数据更新成功：平安银行（sz000001）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz000001.csv）
+- [2025-06-06 09:11:06] 数据更新成功：迈瑞医疗（sz300760）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz300760.csv）
+- [2025-06-06 09:11:09] 数据更新成功：片仔癀（sh600436）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600436.csv）
+- [2025-06-06 09:11:11] 数据更新成功：顺丰控股（sz002352）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002352.csv）
+- [2025-06-06 09:11:13] 数据更新成功：京东方A（sz000725）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz000725.csv）
+- [2025-06-06 09:11:15] 数据更新成功：韦尔股份（sh603501）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh603501.csv）
+- [2025-06-06 09:11:17] 数据更新成功：国电南瑞（sh600406）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600406.csv）
+- [2025-06-06 09:11:20] 数据更新成功：三花智控（sz002050）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz002050.csv）
+- [2025-06-06 09:11:22] 数据更新成功：爱尔眼科（sz300015）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sz300015.csv）
+- [2025-06-06 09:12:15] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=57.09, 上界=84.66
+- [2025-06-06 09:12:15] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=52.99, 上界=76.24
+- [2025-06-06 09:12:15] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=47.31, 上界=76.72
+- [2025-06-06 09:12:15] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=31.16, 上界=64.98
+- [2025-06-06 09:12:15] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=33.79, 上界=88.22
+- [2025-06-06 09:12:15] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=42.78, 上界=77.60
+- [2025-06-06 09:12:15] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=47.16, 上界=76.59
+- [2025-06-06 09:12:15] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=32.70, 上界=73.59
+- [2025-06-06 09:12:15] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=32.34, 上界=76.02
+- [2025-06-06 09:12:15] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=0.00, 上界=73.12
+- [2025-06-06 09:12:15] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=27.39, 上界=56.37
+- [2025-06-06 09:12:15] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=42.08, 上界=69.83
+- [2025-06-06 09:12:15] 数据更新成功：贵州茅台（sh600519）（保存至 c:\Users\jimjiang\PycharmProjects\AphaDogTushare\data\sh600519.csv）
+- [2025-06-06 09:12:15] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=36.20, 上界=82.99
+- [2025-06-06 09:12:15] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=52.08, 上界=84.01
+- [2025-06-06 09:12:15] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=40.14, 上界=80.23
+- [2025-06-06 09:12:15] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=28.22, 上界=72.28
+- [2025-06-06 09:12:15] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=31.03, 上界=77.02
+- [2025-06-06 09:12:15] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=31.75, 上界=57.14
+- [2025-06-06 09:12:15] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=32.27, 上界=78.87
+- [2025-06-06 09:12:15] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=43.14, 上界=79.47
+- [2025-06-06 09:12:15] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=31.35, 上界=60.91
+- [2025-06-06 09:12:15] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=43.99, 上界=78.16
+- [2025-06-06 09:12:15] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=62.06, 上界=88.74
+- [2025-06-06 09:12:15] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=43.84, 上界=83.90
+- [2025-06-06 09:12:16] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=62.98, 上界=90.21
+- [2025-06-06 09:12:16] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=59.96, 上界=83.28
+- [2025-06-06 09:12:16] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=50.01, 上界=86.31
+- [2025-06-06 09:12:16] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=30.29, 上界=76.38
+- [2025-06-06 09:12:16] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=59.77, 上界=77.24
+- [2025-06-06 09:12:16] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=30.19, 上界=78.04
+- [2025-06-06 09:12:16] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=53.15, 上界=90.96
+- [2025-06-06 09:12:16] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=32.42, 上界=67.76
+- [2025-06-06 09:12:16] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=40.46, 上界=73.55
+- [2025-06-06 09:12:16] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=43.91, 上界=77.13
+- [2025-06-06 09:12:16] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=38.48, 上界=77.73
+- [2025-06-06 09:12:16] 使用策略 RSIConfidenceIntervalStrategy 计算置信区间: 下界=41.56, 上界=64.99

@@ -1,5 +1,5 @@
 # 置信区间计算策略配置
-confidence_strategy: "yacd"  # 可选值: normal, quantile, yacd
+confidence_strategy: "rsi"  # 可选值: normal, quantile, macd, rsi, kdj
 
 # 正态分布策略参数
 normal_strategy_params:
@@ -10,6 +10,18 @@ quantile_strategy_params:
   lower_quantile: 0.0001  # 下界分位数
   upper_quantile: 0.9999  # 上界分位数
 
-# yacds 配置
-yacd_strategy_params:
+# macd 配置
+macd_strategy_params:
   confidence_level:  0.9999  # 置信水平
+
+# rsi 配置
+rsi_strategy_params:
+  confidence_level: 0.9999  # 置信水平
+  oversold_threshold: 30  # 超卖阈值
+  overbought_threshold: 70  # 超买阈值
+
+# kdj 配置
+kdj_strategy_params:
+  confidence_level: 0.9999  # 置信水平
+  j_oversold_threshold: 0  # J值超卖阈值
+  j_overbought_threshold: 100  # J值超买阈值
